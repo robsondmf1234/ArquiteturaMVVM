@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArquiteturaMVVM</string>
+
+    <!-- Commom -->
+
+    <!-- Books Activity-->
+    <string name="books_title">Books</string>
+
+</resources>
